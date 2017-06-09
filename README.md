@@ -10,6 +10,7 @@ Human
 * [DISCOVAR](https://software.broadinstitute.org/software/discovar/blog/): A new variant caller capable of assembling small genomes.
 * [Platypus](https://github.com/andyrimmer/Platypus): Platypus is designed for efficient and accurate variant-detection.
 * [SGA](https://github.com/jts/sga/blob/master/src/bin/sga-call-variants.pl)
+* [samtools](http://samtools.sourceforge.net/mpileup.shtml)
 
 Prokaryotes
 -------------------------------------
@@ -19,12 +20,18 @@ Prokaryotes
 [VarScan 2](https://github.com/Jeltje/varscan2): Detects somatic mutations and copy number alterations (CNAs) from exome data.
 * [breseq](https://github.com/barricklab/breseq): breseq finds mutations relative to a reference sequence in short-read DNA re-sequencing data for haploid microbial-sized genomes.
 * [GATK](https://software.broadinstitute.org/gatk/best-practices/): use `HaplotypeCaller`, calls germline SNPs and indel.
+* [samtools](http://samtools.sourceforge.net/mpileup.shtml)
+* [pilon](https://github.com/broadinstitute/pilon): Find variation among bacterial strains, including large event detection
+* [KvarQ](https://github.com/kvarq/kvarq): Targeted and Mapping-Free Variant Calling in FastQ Reads of Bacterial Genomes.
 
 Viruses (Eukaryotic)
 -------------------------------------
 * [LoFreq](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3526318/): LoFreq models sequencing run-specific error rates to accurately call variants occurring in <0.05% of a population.
+* [ViVaMBC](https://sourceforge.net/projects/vivambc/): estimates viral sequence variation in complex populations. Optimized to call variants at the codon level.
+* [VirVarSeq](https://sourceforge.net/projects/virtools/?source=directory): a low frequency virus variant detection pipeline.
+* [QQ-SNV](https://sourceforge.net/projects/qqsnv/): Single Nucleotide variant detection at low frequency.
 
-Eukaryotes
+Eukaryotes (Other than Human)
 -------------------------------------
 * [Platypus](https://github.com/andyrimmer/Platypus): Platypus is designed for efficient and accurate variant-detection.
 

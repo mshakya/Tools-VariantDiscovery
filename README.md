@@ -1,5 +1,5 @@
-# Tools-SNPs
-A list of awesome tools and pipelines that calls variants from NGS data. I listed them into categories based on their original design or implementation (in published papers).
+# Tools-Variant Discovery
+A list of awesome tools and pipelines that calls variants from NGS data. I listed them into categories based on their original design or implementation (in published papers) to analyze specific data type.
 
 Human
 -------------------------------------

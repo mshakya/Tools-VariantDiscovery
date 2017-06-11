@@ -23,6 +23,7 @@ Prokaryotes
 * [samtools](http://samtools.sourceforge.net/mpileup.shtml)
 * [pilon](https://github.com/broadinstitute/pilon): Find variation among bacterial strains, including large event detection
 * [KvarQ](https://github.com/kvarq/kvarq): Targeted and Mapping-Free Variant Calling in FastQ Reads of Bacterial Genomes.
+* [Snippy](https://github.com/tseemann/snippy): Rapid bacterial SNP calling and core genome alignments.
 
 Viruses (Eukaryotic)
 -------------------------------------

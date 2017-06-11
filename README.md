@@ -11,6 +11,7 @@ Human
 * [Platypus](https://github.com/andyrimmer/Platypus): Platypus is designed for efficient and accurate variant-detection.
 * [SGA](https://github.com/jts/sga/blob/master/src/bin/sga-call-variants.pl)
 * [samtools](http://samtools.sourceforge.net/mpileup.shtml)
+* [DISCOSNP](https://github.com/GATB/DiscoSnp):DISCOSNP detects isolated SNPs from any number of read datasets, without a reference genome.
 
 Prokaryotes
 -------------------------------------
@@ -25,6 +26,7 @@ Prokaryotes
 * [KvarQ](https://github.com/kvarq/kvarq): Targeted and Mapping-Free Variant Calling in FastQ Reads of Bacterial Genomes.
 * [Snippy](https://github.com/tseemann/snippy): Rapid bacterial SNP calling and core genome alignments.
 * [parsnp](https://github.com/marbl/parsnp): Core genome alignment, SNP detection, and phylogeny.
+* [DISCOSNP](https://github.com/GATB/DiscoSnp):DISCOSNP detects isolated SNPs from any number of read datasets, without a reference genome.
 
 Viruses (Eukaryotic)
 -------------------------------------

@@ -28,6 +28,7 @@ Prokaryotes
 * [parsnp](https://github.com/marbl/parsnp): Core genome alignment, SNP detection, and phylogeny.
 * [DISCOSNP](https://github.com/GATB/DiscoSnp):DISCOSNP detects isolated SNPs from any number of read datasets, without a reference genome.
 * [NASP](http://tgennorth.github.io/NASP/): NASP is flexible in terms of data input types, job management systems, diversity of supported tools and output format.
+* [ISGPipeline](https://github.com/TGenNorth/ISGPipeline): creates a matrix of SNPs across multiple taxa.
 
 Viruses (Eukaryotic)
 -------------------------------------

@@ -29,6 +29,7 @@ Prokaryotes
 * [DISCOSNP](https://github.com/GATB/DiscoSnp):DISCOSNP detects isolated SNPs from any number of read datasets, without a reference genome.
 * [NASP](http://tgennorth.github.io/NASP/): NASP is flexible in terms of data input types, job management systems, diversity of supported tools and output format.
 * [ISGPipeline](https://github.com/TGenNorth/ISGPipeline): creates a matrix of SNPs across multiple taxa.
+* [REALPHY](http://realphy.unibas.ch/fcgi/realphy): uses multiple references. Can take raw fastq files. Produces a tree.
 
 Viruses (Eukaryotic)
 -------------------------------------

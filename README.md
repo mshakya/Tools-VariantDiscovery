@@ -30,6 +30,7 @@ Prokaryotes
 * [NASP](http://tgennorth.github.io/NASP/): NASP is flexible in terms of data input types, job management systems, diversity of supported tools and output format.
 * [ISGPipeline](https://github.com/TGenNorth/ISGPipeline): creates a matrix of SNPs across multiple taxa.
 * [REALPHY](http://realphy.unibas.ch/fcgi/realphy): uses multiple references. Can take raw fastq files. Produces a tree.
+* [SPANDx](https://github.com/dsarov/SPANDx): for haploid whole genome re-sequencing datasets. Can take raw sequences.
 
 Viruses (Eukaryotic)
 -------------------------------------
